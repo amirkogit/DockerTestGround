@@ -2,6 +2,8 @@
 
 A simple todo list manager app that is running in Node.js and hosted in docker. This exercise is taken from dockerLabs "Getting Started" workshop.
 
+Source: https://github.com/docker/getting-started
+
 ## References
 
 Docker references: 
