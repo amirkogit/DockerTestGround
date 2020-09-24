@@ -40,4 +40,5 @@ App: http://localhost/assets/app.zip
 
 https://medium.com/@saschagrunert/demystifying-containers-part-i-kernel-space-2c53d6979504 
 
-GOTO 2018 • Containers From Scratch • Liz Rice 
+https://youtu.be/8fi7uSYlOdc
+
